@@ -1,0 +1,10 @@
+{
+    "name": "JAR calling testing",
+    "description": "Calling JAR from node.js",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "java": "1.8.0_40",
+         "test":"file:./test.jar"  
+    }
+}
